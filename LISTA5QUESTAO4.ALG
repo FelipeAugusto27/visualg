@@ -12,8 +12,8 @@ cont <- 1
 acum <- 0
 enquanto (cont <= 100) faca
          acum <- acum + cont
-         escreval(acum)
          cont <- cont + 1
 fimenquanto
+escreval(acum)
 
 Fimalgoritmo
